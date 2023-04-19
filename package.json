@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "stylelint-config-standard-scss": "^8.0.0"
+  },
+  "dependencies": {
+    "sass-convert": "^0.5.2"
+  }
+}
